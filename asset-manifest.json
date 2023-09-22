@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shopping-react-app/static/css/main.9a2c2058.css",
-    "main.js": "/shopping-react-app/static/js/main.41a3ddaa.js",
-    "static/media/2.png": "/shopping-react-app/static/media/2.5f080d9e47bf46ca3fce.png",
-    "static/media/3.png": "/shopping-react-app/static/media/3.c7785c796d0b2bf5aa2b.png",
-    "static/media/4.png": "/shopping-react-app/static/media/4.dce93278370eb9a94e56.png",
-    "static/media/1.png": "/shopping-react-app/static/media/1.87f6c2f48f7e15ed845b.png",
-    "static/media/7.jpg": "/shopping-react-app/static/media/7.ef3628e15708d0ea8c2a.jpg",
-    "static/media/6.webp": "/shopping-react-app/static/media/6.454367ee0617790c5a0a.webp",
-    "static/media/8.webp": "/shopping-react-app/static/media/8.eb6194327f7890c1da33.webp",
-    "static/media/5.png": "/shopping-react-app/static/media/5.a13c8fc38072a14d6633.png",
-    "index.html": "/shopping-react-app/index.html",
-    "main.9a2c2058.css.map": "/shopping-react-app/static/css/main.9a2c2058.css.map",
-    "main.41a3ddaa.js.map": "/shopping-react-app/static/js/main.41a3ddaa.js.map"
+    "main.css": "/static/css/main.9a2c2058.css",
+    "main.js": "/static/js/main.e8b06c04.js",
+    "static/media/2.png": "/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/7.jpg": "/static/media/7.ef3628e15708d0ea8c2a.jpg",
+    "static/media/6.webp": "/static/media/6.454367ee0617790c5a0a.webp",
+    "static/media/8.webp": "/static/media/8.eb6194327f7890c1da33.webp",
+    "static/media/5.png": "/static/media/5.a13c8fc38072a14d6633.png",
+    "index.html": "/index.html",
+    "main.9a2c2058.css.map": "/static/css/main.9a2c2058.css.map",
+    "main.e8b06c04.js.map": "/static/js/main.e8b06c04.js.map"
   },
   "entrypoints": [
     "static/css/main.9a2c2058.css",
-    "static/js/main.41a3ddaa.js"
+    "static/js/main.e8b06c04.js"
   ]
 }
